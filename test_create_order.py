@@ -1,6 +1,6 @@
 import requests
 
-BASE_URL = "https://9aeaa1ff-9334-4581-8fc0-a28b77138253.serverhub.praktikum-services.ru"
+BASE_URL = "https://6475add9-c96e-47b3-a1a7-d56346eeb7b8.serverhub.praktikum-services.ru/"
 
 def test_get_order_by_track():
 
