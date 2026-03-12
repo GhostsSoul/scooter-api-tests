@@ -1,1 +1,1 @@
-BASE_URL = "https://ad3a6ed2-a92f-43d9-a39b-6036d1aebd7d.serverhub.praktikum-services.ru"
+BASE_URL = "https://a6763dcc-123d-4461-9366-3b91ae6b3b36.serverhub.praktikum-services.ru"
